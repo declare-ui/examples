@@ -41,9 +41,9 @@ npx create-declareui my-project --targets react,vue
 
 | Package | Description |
 |:--------|:------------|
-| [`@declareui/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
-| [`@declareui/cli`](https://github.com/declare-ui/cli) | CLI tool |
-| [`@declareui/components`](https://github.com/declare-ui/components) | Pre-built component library |
+| [`@declareuihq/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
+| [`@declareuihq/cli`](https://github.com/declare-ui/cli) | CLI tool |
+| [`@declareuihq/components`](https://github.com/declare-ui/components) | Pre-built component library |
 | [`create-declareui`](https://github.com/declare-ui/create-declareui) | Project scaffolding tool |
 
 ## Contributing
